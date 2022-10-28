@@ -1,11 +1,39 @@
-### Hi there 👋
 
+<h2> Hey there! I'm Van.</h2>
 
-**thithanhvanluong/thithanhvanluong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Spending time learning new coding languages and collaborating with team members to do big projects .
+- 🎓 &nbsp; Studying Business Information System at Saskatchewan Polytechnic.
+- 💼 &nbsp; Working as a Technician Student at Success Office Systems.
+- 🌱 &nbsp; Learning more about Node.Js, Express.Js, MongoDB and Entity Framework.
+- ✍️ &nbsp; Pursuing certificates of JavaScript and Full Stack on Udemy .
 
-- 🌱 I’m currently learning Node.Js, Express.Js, MongoDB, Entity Framework
-- 💬 Ask me about JavaScript, React.Js, C#, MS SQL Server
-- 📫 How to reach me: luongthi3840@saskpolytech.ca
-- ⚡ Fun fact: I love spending time learning a new coding language. Not afraid of learning and gaining experience from mistake. 
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  C#,
+  Java
+- 🌐 &nbsp;
+  HTML5,
+  CSS,
+  JavaScript,
+  React
+- 🛢 &nbsp;
+  MS SQL Server
+- ⚙️ &nbsp;
+  Git,
+  GitHub
+- 🔧 &nbsp;
+  Visual Studio Code,
+  NetBean
+<br/>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/thithanhvanluong/">LinkedIn</a>&nbsp &nbsp &nbsp &nbsp
+<a href="mailto:luongthi3840@saskpolytech.ca">Email</a>
+</p>
+
+⭐️ From [Van Luong](https://github.com/thithanhvanluong)
