@@ -13,7 +13,8 @@
 
 - 💻 &nbsp;
   C#,
-  Java
+  Java,
+  Entity Framework
 - 🌐 &nbsp;
   HTML5,
   CSS,
