@@ -19,9 +19,9 @@
   HTML5,
   CSS,
   JavaScript,
-  React
+  React, Node.js
 - 🛢 &nbsp;
-  MS SQL Server
+  MS SQL Server, MongoDB, MySQL
 - ⚙️ &nbsp;
   Git,
   GitHub
