@@ -19,12 +19,12 @@
   HTML5,
   CSS,
   JavaScript,
-  React, Node.js
+  React, Node.js/ExpressJS, Python/Django
 - 🛢 &nbsp;
   MS SQL Server, MongoDB, MySQL
 - ⚙️ &nbsp;
   Git,
-  GitHub
+  GitHub, Docker
 - 🔧 &nbsp;
   Visual Studio Code,
   NetBean
